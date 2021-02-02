@@ -4,7 +4,7 @@ All the assets shown below have been developed by myself.
 
 ## Dice
 
-Each of the assets below represents the 1 of the 6 possible dice results.
+Each of the assets below represent 1 of the 6 possible dice results.
 
 | 1 Point | 2 Points | 3 Points | Attack | Health | Currency |
 |-|-|-|-|-|-|
