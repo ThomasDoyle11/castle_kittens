@@ -20,7 +20,7 @@ The 'Base' asset below represents the background for every kitten, which can tak
 
 ## Other
 
-The 'Castle' asset is used as eponymous the Castle of which the kittens vie for control. The 'Sun' and 'Moon' assets are used to add flavour to the sky background. The 'Potential New Player UI' image is an alternate, compact way of showing information about each player, still in development.
+The 'Castle' asset is used as the eponymous Castle, of which the kittens vie for control. The 'Sun' and 'Moon' assets are used to add flavour to the sky background. The 'Potential New Player UI' image is an alternate, compact way of showing information about each player, still in development.
 
 | Castle | Sun | Moon | Potential New Player UI |
 |-|-|-|-|
