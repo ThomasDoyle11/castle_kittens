@@ -13,4 +13,4 @@
 ## Kittens
 |-|-|-|-|-|-|-|
 |-|-|-|-|-|-|-|
-| <img width="90%" src="kittens/kitten_outline.png"> | <img width="90%" src="kittens/beard_kitten_outline.png"> | <img width="90%" src="kittens/dark_kitten_outline.png"> | <img width="90%" src="kittens/super_kitten_outline.png"> | <img width="90%" src="kittens/robo_kitten_outline.png"> | <img width="90%" src="kittens/stylish_kitten_outline.png"> | <img width="90%" src="kittens/zombie_kitten_outline.png"> |
+| <img width="90%" src="kittens/kitten_outline.png"> | <img width="90%" src="kittens/beard_kitten_outline.png"> | <img width="90%" src="kittens/dark_kitten_outline.png"> | <img width="90%" src="kittens/super_kitten_outline.png"> | <img width="90%" src="kittens/robo_kitten_outline.png"> | <img width="90%" src="kittens/stylish_winter_kitten_outline.png"> | <img width="90%" src="kittens/zombie_kitten_outline.png"> |
