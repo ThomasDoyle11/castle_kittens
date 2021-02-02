@@ -16,7 +16,7 @@ text-align: center;
 # Assets
 
 ## Dice
-|-|-|-|-|-|-|
+| 1 Point | 2 Points | 3 Points | Attack | Health | Currency |
 |-|-|-|-|-|-|
 | <img width="90%" src="dice/point.png"> | <img width="90%" src="dice/2_points.png"> | <img width="90%" src="dice/3_points.png"> | <img width="90%" src="dice/attack.png"> | <img width="90%" src="dice/health.png"> | <img width="90%" src="dice/currency.png"> |
 
