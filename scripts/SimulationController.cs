@@ -301,41 +301,9 @@ public class SimulationController : MonoBehaviour
 
     // For calling simulations
 
-    //public void AddSimulationToQueue(IEnumerator[] coroutines)
-    //{
-    //    StartCoroutine(Simulate(coroutines, false));
-    //}
-
     public void AddSimulationToQueue(Simulation simulation)
     {
         simulationQueue.Add(simulation);
-    }
-
-    private IEnumerator Simulate(IEnumerator[] coroutines, bool isASync)
-    {
-        //int simulationID = totalSimulations;
-        //totalSimulations += 1;
-        //while (true)
-        //{
-        //    if (simulationID == totalSimulationsComplete)
-        //    {
-        //        if (isASync)
-        //        {
-        //            totalSimulationsComplete += 1;
-        //        }
-        //        foreach (IEnumerator coroutine in coroutines)
-        //        {
-        //            yield return coroutine;
-        //        }
-        //        if (!isASync)
-        //        {
-        //            totalSimulationsComplete += 1;
-        //        }
-        //        break;
-        //    }
-        //    yield return null;
-        //}
-        yield return null;
     }
 
     // Primitive Simulation - must all increase numObjectsSimulating and start and decrease at end
