@@ -14,6 +14,10 @@ The Decision.cs class contains information relating to each Decision, such as th
 
 ## Player.cs
 
+The Player.cs class contains all the data relating to a Player, be they Human or AI. It stores the more obvious data, such as health, points and currency, and also data which could be considered 'modifiers' for the player, such as `venomLevel` and `deadDice`, both of which are effects that can be forced on a player and affect their gameplay by making them passively lose health and have a reduced number of dice to roll, respectively.
+
+The class also contains values which drive the AI's decision making. This consists of: A ranking of preference of the 4 possible qualities to be gained from dice rolls (health, points, currency and damage); a series of flags to add unique qualities to each AI (e.g. `hatesInside` => AI will always leave the Castle when possible, `lovesBeingMean` => AI will make decisions that hinder other's progress over furthering their own progress); and a 'riskiness' level, which drives how much of a risk an AI is willing to take when it comes to desired dice results or going for the win over guaranteeing staying alive.
+
 ## SimulationController.cs
 
 The SimulationController.cs script controls the 'Simulation' part of the game. That is, the parts of the game which are not essential to gameplay, but display gameplay elements and events to the players (this is separate to the 'UI' part of the game, which displays direct player stats to the players). The Simulation is driven by the gameplay, but does not affect the gameplay, but for a flag which disallows gameplay to continue whilst a Simulation is currently running.
