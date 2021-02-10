@@ -1,6 +1,6 @@
 # Castle Kittens
 
-This is a selection of files used in the construction of a game tentatively named '**Castle Kittens**', a board game in which kittens roll dice and vie for control of the castle, or to be the last kitten standing.
+This is a selection of files used in the construction of a game tentatively named '**Castle Kittens**', a board game in which kittens roll dice, buy cards and vie for control of the castle, or to be the last kitten standing.
 
 The game is made in Unity using C# scripts.
 
